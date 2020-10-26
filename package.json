@@ -1,6 +1,6 @@
 {
   "name": "proof-client",
-  "homepage": "https://kbini28.github.io/budget-client",
+  "homepage": "https://kbini28.github.io/proof-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
